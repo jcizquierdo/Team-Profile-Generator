@@ -3,6 +3,8 @@
 ## Description
 A Node.js application that through the Inquirer package allows the user to create a HTML webpage for a team profile, given the employees' names and roles this app will create different cards for the employees with their information to keep track of a team, whatever the task may be.
 
+![](images/example.png)
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
