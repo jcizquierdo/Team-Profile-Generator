@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "An application that generates an HTML webpage that displays team members through user input, using Node.js",
+  "main": "Index.js",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "inquirer": "^7.1.0",
+    "joi": "^14.3.1",
+    "node": "^14.4.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node Index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcizquierdo/Team-Profile-Generator.git"
+  },
+  "author": "JC Izquierdo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcizquierdo/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/jcizquierdo/Team-Profile-Generator#readme"
+}
